@@ -18,6 +18,7 @@
 	
     <target name="resolve">
 	  <!--
+	  @DONE@
 	  TODO:
 	  Perform an Ivy retrieve using a pathid of 'compile.classpath' and a pattern of
 	  '${ivy.lib.dir}/[conf]/[artifact].[ext]'.
