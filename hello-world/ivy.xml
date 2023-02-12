@@ -12,6 +12,7 @@
 	</configurations>
 	
 	<!--
+	@DONE@
 	TODO: Define the dependencies for both the compile and test
 	configurations. We need the following dependencies:
 	
